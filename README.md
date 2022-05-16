@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANoguier
-- 👀 I’m interested in Informational Technology, Wed Development, Environmental Science
-- 🌱 I’m currently learning Java, HTML, CSS, PHP
-- 💞️ I’m looking to collaborate on WEb Development projects, application development, any IT and Environmental Science projects. 
+- 👀 I’m interested in Informational Technology, Wed Development, Machine Learning, Environmental Science
+- 🌱 I’m currently learning Java, HTML, CSS, C++
+- 💞️ I’m looking to collaborate on Web Development projects, application development, any IT and Environmental Science projects. 
 - 📫 How to reach me: shoot me an email ananoguier@gmail.com
 
 <!---
